@@ -1,0 +1,17 @@
+@import "navbar.css";
+:root {
+    --color1: rgb(17 24 39);
+    --color2: #23232e;
+    --font: 'Montserrat', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--color1);
+}
+
+
